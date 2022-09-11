@@ -1,7 +1,7 @@
 # Book-sources
 “[阅读](https://github.com/gedoor/legado)”书源
 
-兼容[ 书香之家 - 可编程的换源阅读器” (App Store)](https://apps.apple.com/cn/app/id1618927630)
+兼容□□□□（ios的APP全都有广告，就不推荐了）
 
 请依据个人网络环境选择
 
@@ -10,12 +10,12 @@
 | [链接](https://github.com/pooneyy/Book-source) | [链接](https://www.qiuyelin.com/2022/08/04/%E2%80%9C%E9%98%85%E8%AF%BB%E2%80%9D%E4%B9%A6%E6%BA%90/) |
 ### 其它书源（订阅源）
 
-| 网站                                                         | 项目地址                                               | 分流                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------ |
-| [「阅读」APP 精品书源](https://yuedu.xiu2.xyz/)              | [XIU2 / yuedu](https://github.com/XIU2/yuedu/)         | [地址](https://www.qiuyelin.com/2022/08/04/%E2%80%9C%E9%98%85%E8%AF%BB%E2%80%9D%E4%B9%A6%E6%BA%90/book-sources/XIU2.%E4%B9%A6%E6%BA%90.json) |
-| [Legado (gitee.io)](http://alanskycn.gitee.io/vip/)  [精品源 (celeter.ml)](https://www.celeter.ml/) | [alanskycn / Yuedu](https://gitee.com/alanskycn/yuedu) |                                                              |
-| [书源列表 - 阅读书源 - 源仓库 (yckceo.com)](http://www.yckceo.com/yuedu/shuyuan/index.html) |                                                        |                                                              |
-| [喵公子书源管理（订阅源）](http://dy.miaogongzi.cc/)         |                                                        |                                                              |
+| 网站                                                         | 项目地址                                                     | 分流                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [「阅读」APP 精品书源](https://yuedu.xiu2.xyz/)              | [XIU2 / yuedu](https://github.com/XIU2/yuedu/)               | [地址](https://www.qiuyelin.com/2022/08/04/%E2%80%9C%E9%98%85%E8%AF%BB%E2%80%9D%E4%B9%A6%E6%BA%90/book-sources/XIU2.%E4%B9%A6%E6%BA%90.json) |
+| [Legado (gitee.io)](http://alanskycn.gitee.io/vip/)  [精品源 (celeter.ml)](https://www.celeter.ml/) | [alanskycn / Yuedu](https://gitee.com/alanskycn/yuedu)       |                                                              |
+| [书源列表 - 阅读书源 - 源仓库 (yckceo.com)](http://www.yckceo.com/yuedu/shuyuan/index.html) |                                                              |                                                              |
+| [喵公子书源管理（订阅源）](http://dy.miaogongzi.cc/)         | [阅读书源 (miaogongzi.net)](http://yuedu.miaogongzi.net/gx.html) |                                                              |
 
 
 
